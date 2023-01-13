@@ -64,7 +64,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: kepesrulez/static/uploads/CV.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
