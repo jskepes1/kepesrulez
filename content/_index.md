@@ -56,7 +56,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplishments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -70,7 +70,7 @@ sections:
           date_end: ''
           date_start: '2020-01-01'
           description: ''
-          organization: THe Ohio State University
+          organization: The Ohio State University
           organization_url: 
           title: Silverman Award
           url: ''
