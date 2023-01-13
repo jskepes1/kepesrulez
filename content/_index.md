@@ -40,7 +40,7 @@ sections:
         - title: Graduate Student
           company: The Ohio State University
           company_url: ''
-          company_logo: building-columns
+          company_logo:
           location: Columbus, Ohio
           date_start: '2019-08-01'
           date_end: ''
