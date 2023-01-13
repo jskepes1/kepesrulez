@@ -39,7 +39,7 @@ education:
       year: 2021
     - course: BA in Sociology & Criminal Justice
       institution: University of Georgia
-      year: 2008
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,5 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jacob Kepes is a graduate student of sociology at the Ohio Stat University. His research interests include urban spaces, GIS, housing, race, and stratification. He is a an affiliate of the Insitution of Population Research (IPR), the Criminal Justice Research Center (CJRC), and the Center of Urban and Regional Analysis (CURA).
 {style="text-align: justify;"}
