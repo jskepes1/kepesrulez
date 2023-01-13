@@ -40,7 +40,7 @@ sections:
         - title: Graduate Student
           company: The Ohio State University
           company_url: ''
-          company_logo: org-gc
+          company_logo: building-columns
           location: Columbus, Ohio
           date_start: '2019-08-01'
           date_end: ''
@@ -56,7 +56,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
