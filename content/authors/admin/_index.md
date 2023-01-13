@@ -26,7 +26,7 @@ interests:
   - Urban Sociology
   - Housing
   - The Built Environment
-  -GIS
+  - GIS
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
       year: 2021
     - course: BA in Sociology & Criminal Justice
       institution: University of Georgia
-      year: 2019
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
