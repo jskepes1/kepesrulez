@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 ---
 
-Jacob Kepes is a graduate student in sociology at the Ohio State University. His research interests include urban spaces, GIS, housing, race, and stratification. He is an affiliate of the Insitution of Population Research (IPR), the Criminal Justice Research Center (CJRC), and the Center of Urban and Regional Analysis (CURA).
+Hi, I am a Ph.D Candidate in Sociology at the Ohio State University. My research interests include urban spaces, housing, race, and stratification. I am an affiliate of the Insitution of Population Research (IPR), the Criminal Justice Research Center (CJRC), and the Center of Urban and Regional Analysis (CURA).
 {style="text-align: justify;"}
